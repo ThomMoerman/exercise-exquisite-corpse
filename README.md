@@ -15,3 +15,11 @@
 <!-- Julien --> 
 <br/> Captain! ship spotted in sector BXQ978656 
 <br/> Engage in combat 
+
+<br/> *ANALYSE OF THE SITUATION*
+<br/> - [x] Multiple hits on Reactors 
+<br/> - [x] Shields down
+<br/> - [ ] Communication OK
+<br/> Our reactors are affected. We drift !
+<br/> 
+<br/> To be continued...  
