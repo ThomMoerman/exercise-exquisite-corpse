@@ -12,8 +12,8 @@
 <br/> 
 
 <!-- Julien --> 
-<br/> >Captain! ship has just been spot in sector BXQ978656 by our radars
-<br/> >Shall we engage fight? 
+<br/> > Captain! ship has just been spot in sector BXQ978656 by our radars
+<br/> > Shall we engage fight? 
 
 <!-- Steve --> 
 <br/> *ANALYSE OF THE SITUATION*
